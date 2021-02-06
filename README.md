@@ -1,6 +1,4 @@
-### About Zyprus
-
-Here are some ideas to get you started:
+### About Me
 
 - 🔭 I’m currently working on X Æ A-12 Discord Bot
 - 🌱 I’m currently learning JavaScript
