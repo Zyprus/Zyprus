@@ -14,13 +14,18 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 
----
+<!-- ### Jobs
+Currently coding discord bots for payments. Send me a message on discord to discuss.<br>
+(Reputation) -> [epicnpc.com](https://www.epicnpc.com/members/reconlx.1167846/)<br /> -->
+
+<!-- <details>
+<summary><a align ="right">🔎 Statistics </a></summary>
 
 <a>
-  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=reconlx&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://riday-ghstats.vercel.app/api/top-langs/?username=Zyprus&theme=tokyonight&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reconlx&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zyprus&show_icons=true&theme=onedark" />
 </a>
 </details> -->
 
