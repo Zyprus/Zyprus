@@ -17,7 +17,7 @@
 ### Stats:
 
 <div align ="left">
-<img src="https://metrics.lecoq.io/Zyprus?base.repositories=0&languages=1&isocalendar=1&followup=1">
+<img src="https://metrics.lecoq.io/Zyprus?base.repositories=0&languages=1">
 </div>
 
 ---
