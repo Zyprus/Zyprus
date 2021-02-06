@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Hello is the most used word i guess :/
----
 
 ### Languages and Tools:
 
@@ -22,7 +21,7 @@
 </div>
 
 ---
-<p align="center">
+<p align="left">
 <a href="https://discord.gg/mmVu8mZdwU">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
