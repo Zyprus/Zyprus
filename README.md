@@ -11,9 +11,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
-</a>
-</p>
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> <br />
 
 ---
 
@@ -32,5 +30,3 @@
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
   </a>
 </p>
-
----
