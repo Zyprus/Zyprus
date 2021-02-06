@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on X Æ A-12 Discord Bot
 - 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Hello is the most used word i guess :/
+- ⚡ Fun fact: It can take a photon 40,000 years to travel from the core of the sun to the surface, but only 8 minutes to travel the rest of the way to earth.
 
 ---
 
