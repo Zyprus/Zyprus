@@ -1,5 +1,3 @@
----
-
 ### About Me:
 
 - 🔭 I’m currently working on X Æ A-12 Discord Bot
@@ -23,5 +21,3 @@
 <div align ="left">
 <img src="https://metrics.lecoq.io/Zyprus">
 </div>
-
----
